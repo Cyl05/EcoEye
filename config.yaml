@@ -1,0 +1,9 @@
+path: "C:/filse/vscode/special topics/trainyolofinal/data"
+train: "images/train"
+val: "images/val"
+
+names:
+  0: "Elephant"
+  1: "Giraffe"
+  2: "Zebra"
+  3: "Lion"
